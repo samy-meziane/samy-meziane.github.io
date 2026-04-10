@@ -66,9 +66,16 @@
   "skills": [],
   "languages": [
     {
-      "French": "Native Speaker"
-      "English": "C1 Level"
-      "German": "C1 Level"
+      "language": "French",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C1 Level"
+    },
+    {
+      "language": "German",
+      "fluency": "C1 Level"
     }
   ],
   "interests": [],
