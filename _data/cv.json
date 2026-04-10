@@ -2,12 +2,8 @@
   "basics": {
     "name": "Samy Meziane",
     "email": "samy.meziane@polytechnique.org",
-    "phone": "",
     "website": "https://samy-meziane.github.io",
     "summary": "Master Student in AI at Ecole Polytechnique, currently Research Intern at CERMICS working on operations research and optimization problems in Game Theory",
-    "location": {
-      "countryCode": "France",
-    },
     "profiles": [
       {
         "network": "Google Scholar",
