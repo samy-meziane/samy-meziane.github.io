@@ -4,13 +4,9 @@
     "email": "samy.meziane@polytechnique.org",
     "phone": "",
     "website": "https://samy-meziane.github.io",
-    "summary": "Master Student in AI at Ecole Polytechnique, currently intern at CERMICS working on operations research and optimization problems in Game Theory",
+    "summary": "Master Student in AI at Ecole Polytechnique, currently Research Intern at CERMICS working on operations research and optimization problems in Game Theory",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
       "countryCode": "France",
-      "region": ""
     },
     "profiles": [
       {
@@ -75,15 +71,7 @@
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Formal Verification of Autonomous Cyber Defense for Abstraction of Critical Network Scenarios",
-      "publisher": "IEEE",
-      "releaseDate": "2026-01-01",
-      "website": "https://ieeexplore.ieee.org/abstract/document/11310002",
-      "summary": ""
-    }
-  ],
+  "publications": [],
   "presentations": [],
   "teaching": [],
   "portfolio": []
