@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* April 2026-Present: Operation Research Intern
+* April 2026 - August 2026: Operation Research Intern
   * Ecole Nationale des Ponts et Chaussées, CERMICS
   * Working on computing Nash Equilibria in combinatorial games within the context of mutualization in freight transport.
 
