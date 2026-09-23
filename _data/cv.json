@@ -24,6 +24,14 @@
   },
   "work": [
     {
+      "company": "Ministère de l'Agriculture et de la Souveraineté Alimentaire",
+      "position": "Ingénieur-élève des ponts, des eaux, et des forêts",
+      "website": "",
+      "startDate": "2026-09",
+      "endDate": "Present",
+      "highlights": []
+    },
+    {
       "company": "CERMICS, Ecole Nationale des Ponts et Chaussées",
       "position": "Research Intern",
       "website": "",
@@ -43,6 +51,14 @@
     }
   ],
   "education": [
+    {
+      "institution": "Ecole Normale Supérieure Paris-Saclay",
+      "area": "M2",
+      "studyType": "Engineering degree",
+      "startDate": "2026",
+      "endDate": "2027",
+      "courses": []
+    },
     {
       "institution": "Ecole Polytechnique",
       "area": "Master of Science degree",
